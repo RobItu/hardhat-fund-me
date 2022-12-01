@@ -1,6 +1,6 @@
 # Hardhat-Fund-Me 
 ![alt text](https://hardhat.org/card.jpg)
-With the help of Patrick Collins and FreeCodeCamp, this repository was created to test, deploy and run a Solidity FundMe contract with the HardHat framework. 
+With the help of Patrick Collins and FreeCodeCamp, this repository was created to test, deploy and run Solidity contracts with the HardHat framework and much more. 
 
 # Getting Started
 Instructions for setting up project locally

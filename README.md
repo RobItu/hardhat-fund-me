@@ -24,7 +24,7 @@ yarn add --dev hardhat
 ## Installation
 1. Clone the repo
 ```bash
-git clone https://github.com/RobItu/hardhat-fund-me
+git clone https://github.com/RobItu/hardhat-fund-me.git
 ```
 2. Install dependencies
 ```bash
@@ -51,4 +51,7 @@ Distributed under the MIT License.
 # Contact
 
 Roberto Iturralde | [Twitter](https://twitter.com/ancientveil)
+
+# Acknowledgements
+This repository was created with the help of FreeCodeCamp and [Patrick Collins](https://github.com/PatrickAlphaC) [Blockchain JavaScript 32 hour course](https://github.com/smartcontractkit/full-blockchain-solidity-course-js).
 
